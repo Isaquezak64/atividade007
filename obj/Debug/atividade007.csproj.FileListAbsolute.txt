@@ -1,0 +1,8 @@
+C:\Users\isqsv\source\repos\atividade007\atividade007\bin\Debug\atividade007.exe.config
+C:\Users\isqsv\source\repos\atividade007\atividade007\bin\Debug\atividade007.exe
+C:\Users\isqsv\source\repos\atividade007\atividade007\bin\Debug\atividade007.pdb
+C:\Users\isqsv\source\repos\atividade007\atividade007\obj\Debug\atividade007.csproj.AssemblyReference.cache
+C:\Users\isqsv\source\repos\atividade007\atividade007\obj\Debug\atividade007.csproj.SuggestedBindingRedirects.cache
+C:\Users\isqsv\source\repos\atividade007\atividade007\obj\Debug\atividade007.csproj.CoreCompileInputs.cache
+C:\Users\isqsv\source\repos\atividade007\atividade007\obj\Debug\atividade007.exe
+C:\Users\isqsv\source\repos\atividade007\atividade007\obj\Debug\atividade007.pdb
